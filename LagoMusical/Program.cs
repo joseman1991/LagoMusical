@@ -18,7 +18,7 @@ namespace LagoMusical
             //sonidos de la rana
             animal = new Rana();
 
-            Componer(animal, 0, 1);
+             Componer(animal, 0, 1);
             cancion1.asignarSonido(animal.getSonido());
             Componer(animal, 2, 4);
             cancion1.asignarSonido(animal.getSonido());
