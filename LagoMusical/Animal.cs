@@ -3,7 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/**
+ * 
+ * 
+ * @Author José Rosado
+ * 
+ * 
+ * 
+ */
 namespace LagoMusical
 {
    public class Animal
